@@ -1,7 +1,22 @@
-body{
-    background-color: rgb(204, 204, 130);
+body {
+    background-color: salmon;
 }
+
 h1 {
-    color: rgb(240, 231, 231);
-    font-size: 20ch;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    text-align: center;
+}
+
+ul li a {
+    text-decoration: none;
+    color: blueviolet;
 }
